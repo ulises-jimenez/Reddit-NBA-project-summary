@@ -13,4 +13,4 @@ The csv files contain the relevant data
 
 The powerpoint file contains the images and relevant commentary
 
-Data for the project was taken the day after the spurs won the 2013-2014 NBA championship, Monday June 16nth 2014
+Data for the project was taken the day after the spurs won the 2013-2014 NBA championship, Monday June 16th 2014
