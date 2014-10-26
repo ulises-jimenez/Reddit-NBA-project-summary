@@ -1,4 +1,4 @@
-Reddit-NBA-peoject-summary
+Reddit-NBA-project-summary
 ==========================
 
 -Summary of project work
